@@ -1,0 +1,67 @@
+[
+  {
+      "domain": ".huggingface.co",
+      "expirationDate": 1769584081,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "__stripe_mid",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "65c22abd-4969-4449-9e5d-2428a64ac79b426a55"
+  },
+  {
+      "domain": ".huggingface.co",
+      "expirationDate": 1738393726,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "aws-waf-token",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "a3be46ca-b23b-4409-82b3-04b9bf2c4d20:BQoAsIIyFX8HAAAA:4zln3VTlLRqqHGRbn3E3o8SDn5KrJtyW90YGSmIwFv7cNV3g+9wIGl8mvcanuyirT7MoroHhxjDzR4uDcgr4m6Ccq2+a4g717pcDdvRPkQT0xyYvGvUusrA8rqUGvPxA/c3H2EOY+MGduF2SU9DtbGBaAeDcWPicxLZFSlnl1v0boj2mfxCX8+GpW4oYp9tJx35tHGEQRtMk/2IB2bsTPGtAuoVPSv8WXSGzNiv4Ixnz9h1pa4FFz095x0RWxILb9qce5h8MJfHGt8bz5oI="
+  },
+  {
+      "domain": ".huggingface.co",
+      "expirationDate": 1738049881,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "__stripe_sid",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "1665b676-250b-41c3-a8a4-86b50ea3eadaee03e4"
+  },
+  {
+      "domain": "huggingface.co",
+      "expirationDate": 1739257683.692585,
+      "hostOnly": true,
+      "httpOnly": true,
+      "name": "hf-chat",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "85d2bcd0-cf10-4a59-8378-c525af393e6b"
+  },
+  {
+      "domain": "huggingface.co",
+      "expirationDate": 1769583815.370661,
+      "hostOnly": true,
+      "httpOnly": true,
+      "name": "token",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "cUhyLfnTndaZcyKGCdAXQQANOeITCwIASlsAZMFfNXwjihnKdVjDllroSlEpFnPfAOcDKTGgXbrpRgYKAaCqgIzuSTuKHyaxHsnhntOGbvHjGmbFyHOAyNmVcXDqaRIh"
+  }
+]
